@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Márcio from Brazil.<br><br>- 🔭 I’m working as civil servant.<br>- 📚 I'm currently learning Python, HTML, CSS, few R, ML, DL. <br>- ⚡ In my free time I study Python and programming.</p>
+<p align="left">I'm Márcio from Brazil.<br><br>- 🔭 I’m working as civil servant.<br>- 📚 I'm currently learning Python, HTML, CSS, few R, starting ML, aiming DL and genetic algorithm. <br>- ⚡ In my free time I study Python and programming.</p>
 
 ###
 
